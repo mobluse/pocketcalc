@@ -45,8 +45,8 @@ are always welcome to:
                  SWEDEN
 
 Or use my internet addresses:
-                 mikaelb@df.lth.se
-                 http://www.df.lth.se/~mikaelb/
+                 mikael.bonnier@gmail.com
+                 http://www.df.lth.se.orbin.se/~mikaelb/
              _____
             /   / \
 ***********/   /   \***********
