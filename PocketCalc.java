@@ -7,8 +7,8 @@
 *    Pocket Calculator v1.1.1 by M.O.B. as Java SE applet and application. 
 *    Copyright (C) 1995-2012 by Mikael O. Bonnier, Lund, Sweden.
 *    License: GNU GPL v3 or later, http://www.gnu.org/licenses/gpl.txt
-*    Donations are welcome to PayPal mikaelb@df.lth.se.
-*    The source code is at http://www.df.lth.se/~mikaelb/PocketCalc/
+*    Donations are welcome to PayPal mikael.bonnier@gmail.com.
+*    The source code is at https://github.com/mobluse/pocketcalc/
 *
 *    @version        1.1.1
 *    @author         Mikael O. Bonnier
@@ -56,8 +56,8 @@
 //                  SWEDEN
 //
 // Or use my internet addresses:
-//                  mikaelb@df.lth.se
-//                  http://www.df.lth.se/~mikaelb/
+//                  mikael.bonnier@gmail.com
+//                  http://www.df.lth.se.orbin.se/~mikaelb/
 //              _____
 //             /   / \
 // ***********/   /   \***********
