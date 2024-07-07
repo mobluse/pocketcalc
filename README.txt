@@ -6,8 +6,7 @@ In Windows 95, use Wordpad to read this document.
 Pocket Calculator emulates a pocket calculator of the simplest
 kind. It was Mikael Bonnier's first Java program.
 
-    Pocket Calculator v1.01 is Freeware
-    Commercial Distribution Restricted
+    Pocket Calculator v1.1.1 is FOSS (GPLv3)
     Copyright (C) 1995-1996 by Mikael Bonnier, Lund, Sweden.
 
 
@@ -36,6 +35,8 @@ Revision history:
                  operations.
 1996-Nov: 1.1    Added parameter BGCOLOR. Added support to run
                  as an application.
+2012-Jan: 1.1.1  "private protected" replaced with  "private /* protected */".
+                 This change makes it work in OpenJDK/IcedTea.
 
 Suggestions, improvements, and bug-reports
 are always welcome to:
